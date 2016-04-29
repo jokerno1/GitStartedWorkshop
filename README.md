@@ -1,6 +1,6 @@
 # New change in the development branch
 
-# Git started on version control with SourceTree
+# Git started on version control with SourceTree on 02/05/2016
 
 A public repository for Computer Power Plus students to learn and collaborate on GitHub
 
