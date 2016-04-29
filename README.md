@@ -1,3 +1,5 @@
+# New change in the development branch
+
 # Git started on version control with SourceTree
 
 A public repository for Computer Power Plus students to learn and collaborate on GitHub
@@ -16,3 +18,4 @@ Practise with what you've learnt from the workshop, fork a copy of this repo, st
 * Example
 
 My name is John Wang, I'm an instructor at CPP so I'm on the workshop module. I have finish my course in April 2016. I love keeping up with the latest tech on twitter.
+Here is my second change on this file
