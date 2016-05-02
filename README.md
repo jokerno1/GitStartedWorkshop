@@ -15,7 +15,4 @@ Use what you've learnt from the workshop, fork a copy of this repo, start contri
 
 * Example
 
-My name is John Wang, I'm an instructor at CPP so I'm on the workshop module. I have finish my course in April 2016. I love keeping up with the latest tech on twitter.
-Here is my second change on this file.
-
-This is a test for branching
+My name is John Wang, I'm an instructor at CPP so I'm on the workshop module. I have finished my course in 2016. I love keeping up with the latest tech on twitter.
