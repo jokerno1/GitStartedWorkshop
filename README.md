@@ -1,4 +1,4 @@
-# Git started on version control with SourceTree on 02/05/2016
+# Git started on version control with SourceTree on 03/05/2016
 
 A public repository for Computer Power Plus students to learn and collaborate on GitHub
 
@@ -6,7 +6,7 @@ This project uses a simple text file (introduction.txt) to get students learn ho
 
 ## Note to contributors
 
-Practise with what you've learnt from the workshop, fork a copy of this repo, start contributing by adding your info in the following:
+Use what you've learnt from the workshop, fork a copy of this repo, start contributing by adding your info in the following:
 
 1. Your full name
 2. Current CPP module your are on
